@@ -2,64 +2,79 @@
 
 # Muhammad Saad Nadeem
 
-**Senior Frontend & Mobile Engineer**
+### Senior Frontend & Mobile Engineer
+
+**5+ years delivering production web, iOS, and Android applications**
 
 React · React Native · Expo · Vue 3 · TypeScript
 
-Building web and mobile experiences across fintech, AI, social, and travel products.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Explore my repositories](https://github.com/saadnadeem2015?tab=repositories)
+[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work)
 
 </div>
 
 ---
 
-## About me
+I build frontend and mobile experiences across **fintech, AI, social, and travel products**, taking features from architecture and API integration through testing and release. My work includes financial onboarding, real-time communication, AI-powered interfaces, and cross-platform mobile delivery.
 
-I'm a frontend and mobile engineer with **5+ years of experience** delivering production web and iOS/Android applications. I work across frontend architecture, API integration, testing, and release, with a focus on reusable components and reliable behavior across platforms.
+**Currently:** Senior Software Developer at Piestack.  
+**Previously:** React Native Developer at Tectsoft and Firefly Tech Solutions.  
+**Open to:** International remote roles in frontend and mobile engineering.
 
-As a **Senior Software Developer at Piestack**, I work on fintech web and mobile products, including account and payment flows, merchant dashboards, resumable onboarding, and permission-based actions. Previously, I developed React Native applications at Tectsoft and Firefly Tech Solutions.
+## Selected work
 
-## Selected product experience
+These case studies describe my contributions to employer and client products.
 
-| Product | My contribution | Technologies |
-| --- | --- | --- |
-| **Fairytrail** | Mobile features for traveler matching, profile discovery, verification, real-time chat, and group-travel coordination. | React Native |
-| **YourMove AI** | Frontend experiences for GPT-powered profile optimization and context-sensitive interactions. | React · GPT integrations |
-| **Nuhollywood** | Live video, real-time messaging, and live battle events with voting and updates. | React Native · Agora · PubNub |
-| **Viaggio** | Hotel discovery, ratings, map-based search, navigation, and saved hotel lists. | React Native · Google Maps API |
-| **BluKyte** | Collaborative trip planning with budgets, invitations, and live discussion threads. | React Native |
-| **Flex** | Workout planning, SVG progress charts, social-feed interactions, and premium trainer-plan features. | React Native |
+### Fintech web & mobile platform
 
-## Technical toolkit
+**Piestack · Senior Software Developer · 2024–present**  
+Vue 3 · React · React Native · Expo
 
-- **Frontend & mobile:** React, React Native, Expo, Next.js, Vue 3, Vite, Tailwind CSS, Capacitor
-- **Languages & state:** TypeScript, JavaScript, Redux Toolkit, RTK Query, React Query, Zustand, Pinia
-- **APIs & authentication:** Node.js, REST APIs, Supabase, Firebase/FCM, Auth0
-- **Payments & real-time:** Stripe, RevenueCat, Agora, PubNub, Google Maps API
+- **Account and merchant experiences:** Delivered account management, transaction history, contact-payment flows, and dashboards for sales, transactions, deposits, and statements.
+- **Resumable onboarding:** Built banking and merchant enrollment flows with application-status handling; coordinated API contracts and resolved enrollment edge cases.
+- **Access management:** Implemented identity and invitation management, permission-based actions, and safeguards against removing the last account owner.
+- **Delivery ownership:** Owned frontend delivery from UI architecture and API coordination through testing and release; supported Android internal-test builds and resolved device-specific issues.
+
+### Fairytrail · Social travel
+
+**React Native**
+
+Contributed mobile features to a production platform connecting travelers, digital nomads, and locals.
+
+- Built matching, profile discovery, and verification experiences.
+- Implemented real-time chat, shared itineraries, and group-travel coordination.
+
+### YourMove AI · AI-enabled social experiences
+
+**React · GPT integrations**
+
+Built frontend experiences for GPT-powered profile optimization and context-sensitive interactions, connecting AI capabilities to user-facing product flows.
+
+### Nuhollywood · Live video & messaging
+
+**React Native · Agora · PubNub**
+
+Built live video streaming and real-time messaging, plus live battle events with real-time voting and updates.
+
+<details>
+<summary><strong>More product experience</strong></summary>
+
+- **Viaggio:** Hotel discovery, ratings, map-based search, navigation, and saved hotel lists with React Native and Google Maps API.
+- **BluKyte:** Collaborative trip planning with budgets, invitations, and live discussion threads in React Native.
+- **Flex:** Workout planning, SVG progress charts, social-feed interactions, and premium trainer-plan features in React Native.
+
+</details>
+
+## Core toolkit
+
+- **Frontend & mobile:** TypeScript, JavaScript, React, React Native, Expo, Next.js, Vue 3, Tailwind CSS
+- **State & data:** Redux Toolkit, RTK Query, React Query, Zustand, Pinia, REST APIs
+- **Services:** Supabase, Firebase/FCM, Auth0, Stripe, RevenueCat, Agora, PubNub, OpenAI/GPT, Vapi
 - **Delivery:** Git, CI/CD, Azure DevOps, AWS, Azure, App Store and Google Play releases
-- **AI integrations & workflow:** OpenAI/GPT, Vapi, Claude Code, Codex, Cursor, with hands-on review and validation of generated code
 
-## Selected repositories
+## How I work
 
-### [Hazzy Fitness](https://github.com/saadnadeem2015/Hazzy-Fitness)
+I build reusable components, coordinate API contracts with backend teams, and diagnose UI, performance, and runtime issues across devices. I use Claude Code, Codex, and Cursor for development, refactoring, and debugging, with hands-on review and validation of generated code.
 
-A fitness application with training and meal libraries, workout video screens, profile questionnaires, and subscription flows. Built on a Crowdbotics scaffold, the repository pairs a React Native frontend with a Django REST API backend.
+## Let's talk
 
-**Stack:** JavaScript · React Native · Redux Toolkit · React Navigation · Django REST Framework
-
-[Explore the code](https://github.com/saadnadeem2015/Hazzy-Fitness) · [Browse the app screens](https://github.com/saadnadeem2015/Hazzy-Fitness/tree/main/screens)
-
-### [RTMP Publisher](https://github.com/saadnadeem2015/RTMP-Publisher)
-
-A React Native streaming repository with camera and microphone controls, stream lifecycle events, and native iOS and Android integrations.
-
-**Stack:** TypeScript · React Native · Swift · Java
-
-Based on [react-native-rtmp-publisher](https://github.com/ezranbayantemur/react-native-rtmp-publisher), originally authored by Ezran Bayantemur.
-
-[Explore the code](https://github.com/saadnadeem2015/RTMP-Publisher) · [View the example app](https://github.com/saadnadeem2015/RTMP-Publisher/tree/main/example)
-
-## Let's connect
-
-I'm open to **international remote roles** in frontend and mobile engineering. For opportunities and project discussions, [connect with me on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/).
+Hiring for a frontend or mobile engineering role? [Connect with me on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) to discuss the product, the team, and where I can contribute.
