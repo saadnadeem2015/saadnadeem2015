@@ -8,7 +8,9 @@
 
 React · React Native · Expo · Vue 3 · TypeScript
 
-[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work)
+**Pakistan · UTC+5 · Open to international remote roles**
+
+[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work) · [Public code](#public-code)
 
 </div>
 
@@ -22,7 +24,7 @@ I build frontend and mobile experiences across **fintech, AI, social, and travel
 
 ## Selected work
 
-These case studies describe my contributions to employer and client products.
+The summaries below describe my contributions to employer and client products. Public code is linked separately below.
 
 ### Fintech web & mobile platform
 
@@ -63,6 +65,16 @@ Built live video streaming and real-time messaging, plus live battle events with
 - **Flex:** Workout planning, SVG progress charts, social-feed interactions, and premium trainer-plan features in React Native.
 
 </details>
+
+## Public code
+
+### [Hazzy Fitness](https://github.com/saadnadeem2015/Hazzy-Fitness)
+
+A React Native fitness app repository built on a Crowdbotics foundation, with profile setup, workout video, and subscription screens.
+
+- [Browse app screens](https://github.com/saadnadeem2015/Hazzy-Fitness/tree/main/screens)
+- [Explore state management](https://github.com/saadnadeem2015/Hazzy-Fitness/tree/main/slices)
+- [Read the project overview and setup](https://github.com/saadnadeem2015/Hazzy-Fitness#readme)
 
 ## Core toolkit
 
