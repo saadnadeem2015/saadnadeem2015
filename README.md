@@ -10,7 +10,7 @@ React · React Native · Expo · Vue 3 · TypeScript
 
 **Pakistan · UTC+5 · Open to international remote roles**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work) · [Public code](#public-code)
+[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work)
 
 </div>
 
@@ -22,9 +22,11 @@ I build frontend and mobile experiences across **fintech, AI, social, and travel
 **Previously:** React Native Developer at Tectsoft and Firefly Tech Solutions.  
 **Open to:** International remote roles in frontend and mobile engineering.
 
+Most of my production work lives in private client and organization repositories. The selected work below outlines the products I have contributed to and the features I owned.
+
 ## Selected work
 
-The summaries below describe my contributions to employer and client products. Public code is linked separately below.
+My contributions to employer and client products:
 
 ### Fintech web & mobile platform
 
@@ -36,7 +38,7 @@ Vue 3 · React · React Native · Expo
 - **Access management:** Implemented identity and invitation management, permission-based actions, and safeguards against removing the last account owner.
 - **Delivery ownership:** Owned frontend delivery from UI architecture and API coordination through testing and release; supported Android internal-test builds and resolved device-specific issues.
 
-### Fairytrail · Social travel
+### [Fairytrail](https://www.fairytrail.app/) · Social travel
 
 **React Native**
 
@@ -45,7 +47,7 @@ Contributed mobile features to a production platform connecting travelers, digit
 - Built matching, profile discovery, and verification experiences.
 - Implemented real-time chat, shared itineraries, and group-travel coordination.
 
-### YourMove AI · AI-enabled social experiences
+### [YourMove AI](https://www.yourmove.ai/) · AI-enabled social experiences
 
 **React · GPT integrations**
 
@@ -66,16 +68,6 @@ Built live video streaming and real-time messaging, plus live battle events with
 
 </details>
 
-## Public code
-
-### [Hazzy Fitness](https://github.com/saadnadeem2015/Hazzy-Fitness)
-
-A React Native fitness app repository built on a Crowdbotics foundation, with profile setup, workout video, and subscription screens.
-
-- [Browse app screens](https://github.com/saadnadeem2015/Hazzy-Fitness/tree/main/screens)
-- [Explore state management](https://github.com/saadnadeem2015/Hazzy-Fitness/tree/main/slices)
-- [Read the project overview and setup](https://github.com/saadnadeem2015/Hazzy-Fitness#readme)
-
 ## Core toolkit
 
 - **Frontend & mobile:** TypeScript, JavaScript, React, React Native, Expo, Next.js, Vue 3, Tailwind CSS
@@ -85,7 +77,9 @@ A React Native fitness app repository built on a Crowdbotics foundation, with pr
 
 ## How I work
 
-I build reusable components, coordinate API contracts with backend teams, and diagnose UI, performance, and runtime issues across devices. I use Claude Code, Codex, and Cursor for development, refactoring, and debugging, with hands-on review and validation of generated code.
+I work with designers, backend engineers, and product teams to take features from requirements through release. My focus includes reusable components, clear API contracts, and resolving UI, performance, and runtime issues across devices.
+
+I use Claude Code, Codex, and Cursor for development, refactoring, and debugging, with hands-on review and validation of generated code.
 
 ## Let's talk
 
