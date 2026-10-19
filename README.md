@@ -10,7 +10,7 @@ React · React Native · Expo · Vue 3 · TypeScript
 
 **Pakistan · UTC+5 · Open to international remote roles**
 
-[Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work)
+[View portfolio](https://saad-nadeem-portfolio.vercel.app) · [Résumé](https://saad-nadeem-portfolio.vercel.app/resume.html) · [Connect on LinkedIn](https://www.linkedin.com/in/saad-nadeem-299467219/) · [Selected work](#selected-work)
 
 </div>
 
@@ -26,7 +26,7 @@ Most of my production work lives in private client and organization repositories
 
 ## Selected work
 
-My contributions to employer and client products:
+My contributions to employer and client products. [Explore the visual case studies →](https://saad-nadeem-portfolio.vercel.app/#work)
 
 ### Fintech web & mobile platform
 
